@@ -1,4 +1,4 @@
-# HelloFresh Database Management System
+# HelloFresh Database Management System - Group Project McGill University
 
 ## Project Overview
 This project develops a SQL database tailored for HelloFresh, the leading meal kit delivery service. The database is structured to support HelloFresh's business operations, focusing on customer management, subscription services, supplier interactions, and inventory tracking. This system is designed to enhance operational efficiencies and data-driven decision-making.
@@ -26,8 +26,7 @@ The database includes multiple tables with relationships designed to optimize da
 
 ### Setting up the Database
 1. Clone the repository to your local machine.
-2. Use the SQL scripts found in the `/sql` directory to create your database and tables.
-3. Populate your tables with initial data if available.
+2. Use the SQL scripts to create your database, tables and run the queries
 
 ## ERD
 ![INSY 661 Group Project ERD](https://github.com/TashfeenAhmed12/HelloFresh-Database-Management-System/assets/76031323/97ddd0d6-a339-4b85-a43a-335678b848fc)
